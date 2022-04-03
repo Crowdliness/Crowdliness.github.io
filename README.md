@@ -60,8 +60,8 @@ At this point, it's entirely about RELIABILITY, RELIABILTY, RELIABILITY.
 
 It's really about maintaining shareholder value, paying dividends ... in light of changing technology or changing culture ... maintaining reliability for old customers and others who do not really want change or innovation, they just want to count on their old thing.
 
-## Fall
+## The Fall
 
 It's STILL about looking forward.  What do you want to be the legacy of your efforts ... AFTER the fall ... AFTER the crowd has moved on to bigger and better things.
 
-## Chapter 12
+## AFTER The Fall
