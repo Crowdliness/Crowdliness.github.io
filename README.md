@@ -60,12 +60,18 @@ It's about ATTRACTING the RIGHT talent, RIGHT investors, RIGHT partners, even RI
 
 At this point, it's entirely about RELIABILITY, RELIABILTY, RELIABILITY.
 
-## Decline or Senescence
+## Senescence
 
 It's really about maintaining shareholder value, paying dividends ... in light of changing technology or changing culture ... maintaining reliability for old customers and others who do not really want change or innovation, they just want to count on their old thing.
 
 ## The Fall
 
-It's STILL about looking forward.  What do you want to be the legacy of your efforts ... AFTER the fall ... AFTER the crowd has moved on to bigger and better things.
+EVEN after we are just looking at the artifacts or fossils that remain ... even when we are looking at the ghosttown left over after the boom ... we are STILL thinking about the lessons learned, still thinking about looking forward ... rather than mourning the past.  
+
+What do you want to be the legacy of your efforts ... AFTER the fall, after everything is a fossilized ruin ... AFTER the crowd has moved on to bigger and better things. 
+
+Crowdliness is ALWAYS forward looking ... even we are celebrating what worked in the past. It's why we say, "*The road goes on forever, but the party never ends.*"
 
 ## AFTER The Fall
+
+An appendix ... a listing of what has really worked well.
