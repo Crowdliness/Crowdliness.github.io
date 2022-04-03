@@ -1,6 +1,10 @@
 # Crowdliness
 
-Crowdliness is not exactly next to godliness, but it is about creating something of ***shared value*** that can grow and evolve to be much more than the original vision or original project scope.
+Crowdliness is about builing something that is truly worthy of a crowd ... it's about establishing the basis of a growing, shared, deep value.
+
+Crowdliness is subject to human fraility ... certaintly not exactly next to godliness ... but it is about striving or attempting creating a community around some sort of thing that has ***legitimate shared value*** ... such that the community can grow and evolve to be much more than the original vision or original project scope ... the best examples of this are the most dynamic, growing and innovative crowds that you have ever been a part of ... little communities that grew into something almost indistinguishable from how they began, but were still crowds that were fun and meaningful for everyone involved.
+
+If you have never experienced such a thing ... you need to get out more ... to grow your perspective by at least one hundredfold, think much bigger, think way beyond the artificial box that you have built to keep yourself safe.
 
 ## Developer Hero
 
