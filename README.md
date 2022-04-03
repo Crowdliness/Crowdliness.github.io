@@ -32,7 +32,9 @@ Beware of the parasitic VCs, angel investors and other funders who want to *get 
 
 Remember, you will not need ANY money to attract GOOD crowds; you will need large sums of money to attract the SUCKERS and IDIOTS to SCALE the damned thing.
 
-## Scaling the DAMNED thing
+## Preparing To Scale
+
+Do you want to?  WHY???
 
 Understand why scaling involves turning the thing the crowd built into a mere product ... it's important to see why productization can easily turns the corner toward damnation ... toward EVIL.
 
@@ -40,7 +42,7 @@ If scaling is done wrong ... and it's almost impossible to get right ... the pro
 
 ## Managing@Scale
 
-Growing pains.
+Growing pains. Aggravation. 120-hr weeks. NEVER really leaving work behind.
 
 ## Renewal@Scale
 
