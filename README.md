@@ -1,6 +1,10 @@
-# Developer Hero
+# Crowdliness
 
-This whole thing is really a manual or collection of curated lists for Developer Heros ... written by an aspiring Developer Hero, who is attempting to become more crowd savvy ... of course, the repo is completely forkable, you can fork/extend/write your own manual on becoming a Developer Hero
+Crowdliness is not exactly next to godliness, but it is about creating something of ***shared value*** that can grow and evolve to be much more than the original vision or original project scope.
+
+## Developer Hero
+
+This whole collection of repositories is really nothing more than a manual or manuals and building collection of curated lists for Developer Heros ... just a bunch of scribbling ... written by an aspiring Developer Hero, who is attempting to become more crowd savvy ... of course, the repo is completely forkable, you can fork/extend/write your own manual on becoming a Developer Hero
 
 ## Commitizen
 
