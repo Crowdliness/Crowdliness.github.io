@@ -1,1 +1,9 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: Crowdliness
+email: X@crowdliness.org
+description: Crowdliness is about things that attract interest, cause events to happen and spawn movements and cultures to spring into existence.
+twitter_username: Crowdliness
+github_username:  Crowdliness
+
+# Build settings
+markdown: kramdown
